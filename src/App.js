@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return(
-    <div>teste</div>
+    <button className="btn btn-primary">teste</button>
   )
 }
 
