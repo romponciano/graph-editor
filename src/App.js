@@ -1,8 +1,9 @@
 import React from 'react';
+import Tree from './tree/Tree';
 
 function App() {
   return(
-    <button className="btn btn-primary">teste</button>
+    <Tree />
   )
 }
 
