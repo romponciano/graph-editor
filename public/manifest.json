@@ -1,0 +1,6 @@
+{
+  "short_name": "GE",
+  "name": "Graph Editor",
+  "start_url": ".",
+  "display": "standalone"
+}
